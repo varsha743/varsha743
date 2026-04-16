@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b7fc2&height=200&section=header&text=Varsha%20Lokavarapu&fontSize=50&fontColor=ffffff&fontAlignY=50"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9b7fc2&height=200&section=header&text=Varsha%20Lokavarapu&fontSize=50&fontColor=ffffff&fontAlignY=50"/>
