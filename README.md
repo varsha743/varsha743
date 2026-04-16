@@ -1,7 +1,5 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0,9B8FD8,C4B5FD&height=200&section=header&text=Varsha%20Lokavarapu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=60&descAlign=50)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b7fc2&height=200&section=header&text=Varsha%20Lokavarapu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=58&descColor=ffffff"/>
 </div>
 
 ## Hi there, I'm Varsha! 👋
