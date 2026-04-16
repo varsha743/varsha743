@@ -2,6 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9b7fc2&height=200&section=header&text=Varsha%20Lokavarapu&fontSize=50&fontColor=ffffff&fontAlignY=50"/>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b7fc2&height=200&section=header&text=Varsha%20Lokavarapu&fontSize=50&fontColor=ffffff&fontAlignY=50"/>
+</div>
+
+<p align="center">
+  🎓 University of Houston &nbsp;&nbsp;|&nbsp;&nbsp;
+  📍 Houston, Texas &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/varsha-lokavarapu">💼 LinkedIn</a>
+</p>
+
 ## Hi there, I'm Varsha! 👋
 
 I am a **Data Science** graduate student at the **University of Houston** with a passion for building intelligent systems at the intersection of machine learning, generative AI, and data engineering. I hold a **Databricks Certified Generative AI Engineer** certification and a 4.0 GPA backed by a Dean's Scholarship.
