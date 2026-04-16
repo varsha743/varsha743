@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0,5B8DEF,008080&height=200&section=header&text=Varsha&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0,9B8FD8,C4B5FD&height=200&section=header&text=Varsha%20Lokavarapu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=60&descAlign=50)
 
 </div>
 
@@ -106,12 +106,13 @@ I am a **Data Science** graduate student at the **University of Houston** with a
 
 ## 📜 Licenses & Certifications
 
-- [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/a486ca0e-31cb-4467-8f65-67fc64938790#acc.Z4oAB6F7) **Generative AI Engineer** — Databricks Certified
+- [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/a486ca0e-31cb-4467-8f65-67fc64938790#acc.Z4oAB6F7) **Databricks Certified Generative AI Engineer Associate** — Issued Feb 2026 · Expires Feb 2028
+- ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-FF6F00?style=flat-square&logo=coursera&logoColor=white) **Claude Code: A Highly Agentic Coding Assistant** — Issued Apr 2026
 
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0,008080,5B8DEF&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0,C4B5FD,9B8FD8&height=120&section=footer)
 
 </div>
