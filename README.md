@@ -21,12 +21,12 @@ I am a **Data Science** graduate student at the **University of Houston** with a
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-- **NBA Analytics Storytelling**: End-to-end analytics pipeline and interactive dashboard uncovering performance patterns across NBA seasons using Python, SQL, and Tableau.
-- **Fake News Detection Agent**: Multi-agent LLM system leveraging LangChain and RAG pipelines to classify and explain misinformation with source-level explainability.
-- **Multi-Agent Investment Signal Extraction**: Orchestrated CrewAI-based agents to extract investment signals from earnings calls and financial documents using OpenAI + FAISS vector search.
-- **Gender Detection by Voice (CNN)**: Deep learning audio classification system built with PyTorch CNNs trained on voice spectrograms.
+- **Multi-Agent Investment Signal Extraction** — Orchestrated multi-agent system using LangGraph and RAG pipelines to extract investment signals from SEC filings and earnings call transcripts.
+- **Gender Detection by Voice (CNN)** — Deep learning audio classification system built with PyTorch CNNs trained on voice spectrograms.
+
+👉 Check out my [repositories](https://github.com/varsha743?tab=repositories) for more projects!
 
 ---
 
